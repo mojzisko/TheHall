@@ -1,0 +1,32 @@
+/*====================
+        HEADER
+======================*/
+
+
+
+
+header {
+    padding:10px 0px;
+    width: 100%;
+    display: flex;   
+}
+
+
+header .header_logo {
+    flex-grow: 1;
+    
+}
+header .header_logo_venue {
+    font-size: 40px;
+    position: absolute;
+    margin: -32px;
+    margin-left: 10px;
+}
+
+header .header_logo_title {
+    text-transform: uppercase;
+    position: absolute;
+    margin-top: 14px;
+    margin-left: 14px;
+
+}
